@@ -577,3 +577,18 @@ fill: #ffffff;
 .modal-form {
     margin-bottom: 8px;
 }
+
+.modal-label {
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 12px;
+line-height: 1.16667;
+letter-spacing: 0.04em;
+color: #8e8f99;
+display: block;
+margin-bottom: 4px;
+}
+
+.modal-input {
+    position: relative;
+}
