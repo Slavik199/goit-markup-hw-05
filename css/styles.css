@@ -580,6 +580,7 @@ fill: #ffffff;
 
 .modal-form {
     margin-bottom: 8px;
+    position: relative;
 }
 
 .modal-label {
