@@ -687,3 +687,7 @@ display: inline-flex;
     margin: 0 auto;
     border-radius: 4px;
 }
+
+.link-form {
+    color: #4d5ae5;
+}
