@@ -690,3 +690,11 @@ display: inline-flex;
 .link-form {
     color: #4d5ae5;
 }
+
+
+.visually-hidden:checked + .label-box .accent {
+    background-color: #404bbf;
+    border: none;
+    fill: #F4F4FD;
+}
+
